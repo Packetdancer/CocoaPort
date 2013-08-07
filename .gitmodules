@@ -4,3 +4,9 @@
 [submodule "External/nstool"]
 	path = External/nstool
 	url = https://github.com/chrisdevereux/nstool.git
+[submodule "External/OCHamcrest"]
+	path = External/OCHamcrest
+	url = https://github.com/hamcrest/OCHamcrest.git
+[submodule "External/OCMockito"]
+	path = External/OCMockito
+	url = https://github.com/jonreid/OCMockito.git
